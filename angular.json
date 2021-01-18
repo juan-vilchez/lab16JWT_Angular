@@ -120,5 +120,8 @@
       }
     }
   },
-  "defaultProject": "angular16"
+  "defaultProject": "angular16",
+  "cli": {
+    "analytics": false
+  }
 }
